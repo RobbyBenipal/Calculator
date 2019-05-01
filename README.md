@@ -1,5 +1,7 @@
 Name:           Robby Benipal
+
 Date:           August 10, 2016
+
 Description:    This program will act as a fully functional 
                 calculator written in C++
 
